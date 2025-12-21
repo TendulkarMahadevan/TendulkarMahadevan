@@ -40,9 +40,6 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendulkarMahadevan\&layout=compact)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TendulkarMahadevan\&show_icons=true)
 
 ## 📂 Featured Projects
 
