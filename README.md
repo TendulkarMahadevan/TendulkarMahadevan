@@ -14,27 +14,11 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 * 🔐 **Security & Compliance Automation** (CIS Benchmarks, ISO/IEC 42001)
 * 🌐 **Full-Stack Applications** (React, Node.js, MongoDB)
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### 💻 Languages
-
-* Python
-* JavaScript / TypeScript
-* SQL
-* Shell Scripting
-
-### ⚙️ Frameworks & Tools
-
-* React.js, Node.js
-* Hugging Face, Transformers
-* Docker, GitHub Actions
-* AWS (EC2, S3, IAM, CloudWatch)
-* MongoDB, DynamoDB
-
-### 🎨 Design
-
-* Figma
-* UI/UX Prototyping
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,docker,linux,github,mongodb,postgres,figma" />
+</p>
 
 ## 🔤 Most Used Languages
 
