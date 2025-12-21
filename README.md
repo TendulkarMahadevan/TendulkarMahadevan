@@ -58,8 +58,6 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 * Mapping ISO/IEC 42001 to AWS services
 * Policy & risk automation concepts
 
-> 📌 More projects coming soon — actively building & pushing!
-
 ## 🎯 Career Interests
 
 * Software Engineer (Frontend / Full-Stack)
