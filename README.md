@@ -7,25 +7,25 @@
 I build **scalable, secure, and intelligent systems** across **AI, Cloud, and Web**.
 My work spans **LLM experimentation, AWS cloud automation, compliance tooling, and full-stack applications**.
 
-## 🧠 What I’m Working On
+## What I’m Working On
 
 * 🤖 **LLM & Prompt Engineering** (Mistral, Hugging Face, Transformers)
 * ☁️ **AWS Cloud & DevOps** (EC2, S3, IAM, CI/CD)
 * 🔐 **Security & Compliance Automation** (CIS Benchmarks, ISO/IEC 42001)
 * 🌐 **Full-Stack Applications** (React, Node.js, MongoDB)
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,docker,linux,github,mongodb,postgres,figma" />
 </p>
 
-## 🔤 Most Used Languages
+## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendulkarMahadevan\&layout=compact)
 
 
-## 📂 Featured Projects
+## Featured Projects
 
 🔹 **LLM Prompting Experiments**
 
@@ -42,7 +42,7 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 * Mapping ISO/IEC 42001 to AWS services
 * Policy & risk automation concepts
 
-## 🎯 Career Interests
+## Career Interests
 
 * Software Engineer (Frontend / Full-Stack)
 * AI / ML Engineer
