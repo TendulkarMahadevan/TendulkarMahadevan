@@ -7,16 +7,12 @@
 I build **scalable, secure, and intelligent systems** across **AI, Cloud, and Web**.
 My work spans **LLM experimentation, AWS cloud automation, compliance tooling, and full-stack applications**.
 
----
-
 ## 🧠 What I’m Working On
 
 * 🤖 **LLM & Prompt Engineering** (Mistral, Hugging Face, Transformers)
 * ☁️ **AWS Cloud & DevOps** (EC2, S3, IAM, CI/CD)
 * 🔐 **Security & Compliance Automation** (CIS Benchmarks, ISO/IEC 42001)
 * 🌐 **Full-Stack Applications** (React, Node.js, MongoDB)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,19 +36,13 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 * Figma
 * UI/UX Prototyping
 
----
-
 ## 🔤 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendulkarMahadevan\&layout=compact)
 
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TendulkarMahadevan\&show_icons=true)
-
----
 
 ## 📂 Featured Projects
 
@@ -73,8 +63,6 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 
 > 📌 More projects coming soon — actively building & pushing!
 
----
-
 ## 🎯 Career Interests
 
 * Software Engineer (Frontend / Full-Stack)
@@ -82,14 +70,3 @@ My work spans **LLM experimentation, AWS cloud automation, compliance tooling, a
 * Cloud & DevOps Engineer
 * AI Governance & Compliance Engineering
 
----
-
-## 📫 Let’s Connect
-
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/tendulkarm](https://www.linkedin.com/in/tendulkarm)
-* 📧 **Email:** tendulkarmahadevan@gmail.com
-* 🌐 **GitHub:** [https://github.com/TendulkarMahadevan](https://github.com/TendulkarMahadevan)
-
----
-
-⭐ *If you find my work interesting, feel free to star a repo or reach out — always happy to collaborate!*
