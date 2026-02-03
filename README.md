@@ -1,51 +1,101 @@
-# 👋 Hi, I’m Tendulkar Mahadevan
+👋 Hi, I’m Tendulkar Mahadevan
 
-🚀 **Software Engineer | AI, Cloud & Full-Stack Development**
-🎓 Master’s in Computer Science (CSUSB)
-🌎 Based in the U.S. | Open to Full-Time Opportunities
+Frontend Engineer focused on building fast, accessible, and intuitive web interfaces — especially for developer tools and AI-powered products.
 
-I build **scalable, secure, and intelligent systems** across **AI, Cloud, and Web**.
-My work spans **LLM experimentation, AWS cloud automation, compliance tooling, and full-stack applications**.
+🎓 Master’s in Computer Science (CSUSB)  
+💼 3 years of experience building production web applications  
+🌎 Based in the U.S. | Open to Full-Time Frontend Roles
 
-## What I’m Working On
+---
 
-* 🤖 **LLM & Prompt Engineering** (Mistral, Hugging Face, Transformers)
-* ☁️ **AWS Cloud & DevOps** (EC2, S3, IAM, CI/CD)
-* 🔐 **Security & Compliance Automation** (CIS Benchmarks, ISO/IEC 42001)
-* 🌐 **Full-Stack Applications** (React, Node.js, MongoDB)
+## 🚀 What I Build
 
-## Languages & Tools
+I specialize in turning complex systems into clean, usable interfaces.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,aws,docker,linux,github,mongodb,postgres,figma" />
-</p>
+- ⚛️ **Frontend Engineering** – React, TypeScript, modern state management
+- 🎨 **UI → Code** – Translating Figma designs into scalable components
+- ⚡ **Performance & UX** – Responsive layouts, lazy loading, smooth interactions
+- ♿ **Accessibility** – Keyboard navigation, semantic HTML, WCAG-aware design
+- 🧠 **AI-Integrated UIs** – Frontends that interact with LLM-powered systems
 
-## Most Used Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendulkarMahadevan\&layout=compact)
+## 🧩 Tech Stack
 
+**Frontend**
+- React, TypeScript, JavaScript (ES6+)
+- React Hooks, Context API
+- React Query / Zustand (state & data)
+- HTML5, CSS3, Responsive Design
+- Tailwind / Styled Components
 
-## Featured Projects
+**Testing & Quality**
+- Jest, React Testing Library
+- Playwright (basic)
+- Clean component architecture
 
-🔹 **LLM Prompting Experiments**
+**Backend & Platform (Supporting)**
+- Node.js, Express
+- REST APIs
+- AWS (EC2, S3, IAM)
+- Docker, CI/CD (GitLab, Azure DevOps)
 
-* Hands-on notebooks exploring instruction-tuned models
-* Transformers, Mistral, Hugging Face pipelines
+**Design**
+- Figma
+- Component-driven UI development
 
-🔹 **CIS Benchmark Compliance Scanner**
+---
 
-* Automated Linux security checks
-* JSON reporting & AWS integration
+## 🧪 Featured Projects
 
-🔹 **AI-Based Compliance & Governance Tools**
+### 🔹 AI Code Review Dashboard *(In Progress)*
+Frontend interface for an AI-powered code review system.
 
-* Mapping ISO/IEC 42001 to AWS services
-* Policy & risk automation concepts
+- Repo & file explorer
+- Diff viewer with inline AI comments
+- Severity filtering & context-aware feedback
+- Optimized rendering for large files
+- Accessibility-first interactions
 
-## Career Interests
+**Tech:** React, TypeScript, React Query, Zustand  
+➡️ *Repo & live demo coming soon*
 
-* Software Engineer (Frontend / Full-Stack)
-* AI / ML Engineer
-* Cloud & DevOps Engineer
-* AI Governance & Compliance Engineering
+---
 
+### 🔹 CIS Benchmark Compliance Scanner
+Lightweight security compliance tool with structured reporting.
+
+- Automated Linux security checks
+- JSON-based output
+- Cloud-ready architecture
+
+**Tech:** Shell, Python  
+🔗 https://github.com/TendulkarMahadevan/cis-scanner
+
+---
+
+### 🔹 LLM Prompting Experiments
+Hands-on notebooks exploring instruction-tuned models.
+
+- Prompt design patterns
+- Hugging Face pipelines
+- Model behavior analysis
+
+**Tech:** Python, Jupyter, Transformers  
+🔗 https://github.com/TendulkarMahadevan/huggingface
+
+---
+
+## 🎯 Career Interests
+
+- Frontend Engineer (React / TypeScript)
+- Developer Tools & Platform UI
+- AI-Integrated Web Applications
+- Design-System & Component Architecture
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/tendulkarmahadevan/
+- Email: tendulkarmahadevan@gmail.com
