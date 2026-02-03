@@ -52,9 +52,9 @@ Frontend interface for an AI-powered code review system.
 - Accessibility-first interactions
 
 **Tech:** React, TypeScript, React Query, Zustand  
-➡️ *Repo & live demo coming soon*
+ *Repo & live demo coming soon*
 
-### 🔹 CIS Benchmark Compliance Scanner
+### CIS Benchmark Compliance Scanner
 Lightweight security compliance tool with structured reporting.
 
 - Automated Linux security checks
@@ -64,7 +64,7 @@ Lightweight security compliance tool with structured reporting.
 **Tech:** Shell, Python  
 🔗 https://github.com/TendulkarMahadevan/cis-scanner
 
-### 🔹 LLM Prompting Experiments
+### LLM Prompting Experiments
 Hands-on notebooks exploring instruction-tuned models.
 
 - Prompt design patterns
@@ -74,14 +74,14 @@ Hands-on notebooks exploring instruction-tuned models.
 **Tech:** Python, Jupyter, Transformers  
 🔗 https://github.com/TendulkarMahadevan/huggingface
 
-## 🎯 Career Interests
+## Career Interests
 
 - Frontend Engineer (React / TypeScript)
 - Developer Tools & Platform UI
 - AI-Integrated Web Applications
 - Design-System & Component Architecture
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/tendulkarmahadevan/
 - Email: tendulkarmahadevan@gmail.com
