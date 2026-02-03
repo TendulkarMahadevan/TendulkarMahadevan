@@ -8,20 +8,16 @@ Frontend Engineer focused on building fast, accessible, and intuitive web interf
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 I specialize in turning complex systems into clean, usable interfaces.
+-  **Frontend Engineering** – React, TypeScript, modern state management
+-  **UI → Code** – Translating Figma designs into scalable components
+-  **Performance & UX** – Responsive layouts, lazy loading, smooth interactions
+-  **Accessibility** – Keyboard navigation, semantic HTML, WCAG-aware design
+-  **AI-Integrated UIs** – Frontends that interact with LLM-powered systems
 
-- ⚛️ **Frontend Engineering** – React, TypeScript, modern state management
-- 🎨 **UI → Code** – Translating Figma designs into scalable components
-- ⚡ **Performance & UX** – Responsive layouts, lazy loading, smooth interactions
-- ♿ **Accessibility** – Keyboard navigation, semantic HTML, WCAG-aware design
-- 🧠 **AI-Integrated UIs** – Frontends that interact with LLM-powered systems
-
----
-
-## 🧩 Tech Stack
-
+## Tech Stack
 **Frontend**
 - React, TypeScript, JavaScript (ES6+)
 - React Hooks, Context API
@@ -44,11 +40,9 @@ I specialize in turning complex systems into clean, usable interfaces.
 - Figma
 - Component-driven UI development
 
----
+##  Featured Projects
 
-## 🧪 Featured Projects
-
-### 🔹 AI Code Review Dashboard *(In Progress)*
+### AI Code Review Dashboard *(In Progress)*
 Frontend interface for an AI-powered code review system.
 
 - Repo & file explorer
@@ -60,8 +54,6 @@ Frontend interface for an AI-powered code review system.
 **Tech:** React, TypeScript, React Query, Zustand  
 ➡️ *Repo & live demo coming soon*
 
----
-
 ### 🔹 CIS Benchmark Compliance Scanner
 Lightweight security compliance tool with structured reporting.
 
@@ -71,8 +63,6 @@ Lightweight security compliance tool with structured reporting.
 
 **Tech:** Shell, Python  
 🔗 https://github.com/TendulkarMahadevan/cis-scanner
-
----
 
 ### 🔹 LLM Prompting Experiments
 Hands-on notebooks exploring instruction-tuned models.
@@ -84,16 +74,12 @@ Hands-on notebooks exploring instruction-tuned models.
 **Tech:** Python, Jupyter, Transformers  
 🔗 https://github.com/TendulkarMahadevan/huggingface
 
----
-
 ## 🎯 Career Interests
 
 - Frontend Engineer (React / TypeScript)
 - Developer Tools & Platform UI
 - AI-Integrated Web Applications
 - Design-System & Component Architecture
-
----
 
 ## 📫 Let’s Connect
 
