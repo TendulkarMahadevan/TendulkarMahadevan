@@ -1,10 +1,10 @@
 👋 Hi, I’m Tendulkar Mahadevan
 
-Frontend Engineer focused on building fast, accessible, and intuitive web interfaces — especially for developer tools and AI-powered products.
+Software Engineer focused on building fast, accessible, and intuitive web interfaces — especially for developer tools and AI-powered products.
 
 🎓 Master’s in Computer Science (CSUSB)  
 💼 3 years of experience building production web applications  
-🌎 Based in the U.S. | Open to Full-Time Frontend Roles
+🌎 Based in the U.S. | Open to Full-Time Roles
 
 ---
 
